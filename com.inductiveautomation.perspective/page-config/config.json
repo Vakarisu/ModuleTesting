@@ -1,0 +1,30 @@
+{
+  "pages": {
+    "/": {
+      "docks": {
+        "cornerPriority": "top-bottom"
+      },
+      "title": "",
+      "viewPath": "Overview"
+    }
+  },
+  "sharedDocks": {
+    "cornerPriority": "top-bottom",
+    "top": [
+      {
+        "anchor": "fixed",
+        "autoBreakpoint": 480,
+        "content": "push",
+        "handle": "hide",
+        "iconUrl": "",
+        "id": "",
+        "modal": false,
+        "resizable": false,
+        "show": "visible",
+        "size": 150,
+        "viewParams": {},
+        "viewPath": "Header"
+      }
+    ]
+  }
+}
